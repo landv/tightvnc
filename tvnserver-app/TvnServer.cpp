@@ -52,7 +52,7 @@
 
 #include <crtdbg.h>
 #include <time.h>
-#include "TimeAPI.h"
+//#include "TimeAPI.h"
 
 
 TvnServer::TvnServer(bool runsInServiceContext,

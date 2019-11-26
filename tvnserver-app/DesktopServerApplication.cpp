@@ -30,7 +30,7 @@
 #include "win-system/Environment.h"
 #include "win-system/SharedMemory.h"
 #include "tvnserver-app/NamingDefs.h"
-#include "TimeAPI.h"
+//#include "TimeAPI.h"
 
 DesktopServerApplication::DesktopServerApplication(HINSTANCE appInstance,
                                                    const TCHAR *windowClassName,
